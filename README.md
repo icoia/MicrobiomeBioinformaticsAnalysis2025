@@ -10,7 +10,7 @@
 </p>
 <p id="teach">
   <strong>Instructor:</strong>
-  <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh</a>(Ph.D., PDF)
+  <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF)
 </p>
 
 <p id="by">
@@ -19,7 +19,7 @@
 </p>
 
 <p id="date">
-  <strong>Start Dates:</strong>
+  <strong>Start Date:</strong>
   March 5, 2025
 </p>
 
@@ -37,26 +37,17 @@
   - Access to Wifi 
   - R and Rstudio installed (instructions <a href="#setup">below</a>)
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
-  
-<p id="register">
-  <strong>Register</strong>
-  <a href="https://forms.gle/tdnDSKGJ491BBMU5A">here</a> 
-</p>
 
-<p id="watch">
-  <strong>Watch</strong>
-  <a href="https://www.youtube.com/@icoia_official">here</a> 
-</p>
 <p id="contact">
   <strong>Contact:</strong>
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
 </p>
-
+  
+<p id="register">
+  <strong>Register:</strong>
+  <a href="https://forms.gle/tdnDSKGJ491BBMU5A">here</a> 
 </p>
-#<p id="discord">
-#To ask questions about the course, communicate with the instructor and get informed about other free training courses, #become a member of the ICOIA Online School 
- # <a href="https://discord.gg/afPD7G28K3">Discord server</a>.
- #</p>
+
 <p id="telegram">
 To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
   <a href="https://t.me/+jIfI2LibaBo2Yzc8?fbclid=PAZXh0bgNhZW0CMTEAAaZlAjc5hfp7mpqw7f8RxznZJ41NhZzFBl5LOjO07NjkorsvyXNDRH0pkNg_aem_l02uj-8pTJF5BiOA2yLSNQ">Telegram Group</a>.
@@ -68,21 +59,26 @@ This course is suitable for:
 </p>
 
  - Levels: Beginner & Intermediate
- - Fields: Biology, Medicine, Agriculture & Natural Resources
+ - Fields: Biology, Medicine, Veterinary, and Agriculture & Natural Resources
  - Language: Farsi
 
 <p id="cover">
 This course covers the following material:
 </p>
 
+ - Introduction to metabarcoding and amplicon sequencing
  - Introduction to R
- - Descriptive statistics
- - t-test
- - ANOVA
- - Non-parametric tests
- - Bivariate analysis
- - Multivariate analysis
- - Data visualization
+ - <a href="https://benjjneb.github.io/dada2/tutorial.html">DADA2 Tutorial</a>
+ - Introduction to phyloseq package in R
+ - Data exploration
+ - Statistical analyses of 16S rRNA gene sequences:
+ - Taxonomic composition
+  - Alpha diversity
+  - Beta diversity (ordination)
+  - PERmutational Multivariate ANalysis Of VAriance (PERMANOVA)
+  - Differential analysis
+- Discussion
+  - Wrap up of the results of 16S rRNA gene sequence analysis
 
 <h2 id="setup">Setup</h2> 
 To participate in this Workshop, please install the following <a href="#r">software</a>, 
@@ -134,13 +130,6 @@ and let us know if you need any help before attending.
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
    </p>
   </div> 
-  #<div id="r">
-  #<h3>Install Discord</h3>
-  #<p>
-   # Please download and install <a href="https://discord.com/download">Discord</a> for communications 
-   # and troubleshooting during the course.
-  #</p>
- #</div>   
  </div>
 </div>
    
@@ -148,6 +137,8 @@ and let us know if you need any help before attending.
 To follow the workshop, you must have a basic understanding of R.
 Before attending the workshop, please go through the following courses:
 
+  - <a href="https://youtu.be/UGgxfzCoX9k?si=gSHIXaJOQ7CuGDkv">Introduction to R (1)</a>
+  - <a href="https://youtu.be/eWa32WxJOnY?si=ZUxdMORnnQd68-GZ">Introduction to R (2)</a> 
   - <a href="https://app.datacamp.com/learn/courses/free-introduction-to-r">Introduction to R (Chapter 1)</a> 
   - <a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>
  
