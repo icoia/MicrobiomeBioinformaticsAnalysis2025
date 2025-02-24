@@ -1,4 +1,4 @@
-# MicrobiomeBioinformaticsAnalysis2025
+# Microbiome Bioinformatics Analysis
 
 <h2 id="general">General Information</h2>
 
