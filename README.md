@@ -2,7 +2,7 @@
 
 <h2 id="general">General Information</h2>
 
-
+<img src="images/poster_BIOF-Mic101.png" width="350" align="right">
 
 <p id="code">
   <strong>Code:</strong>
