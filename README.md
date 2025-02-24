@@ -72,11 +72,11 @@ This course covers the following material:
  - Introduction to phyloseq package in R
  - Data exploration
  - Statistical analyses of 16S rRNA gene sequences:
- - Taxonomic composition
-  - Alpha diversity
-  - Beta diversity (ordination)
-  - PERmutational Multivariate ANalysis Of VAriance (PERMANOVA)
-  - Differential analysis
+   - Taxonomic composition
+   - Alpha diversity
+   - Beta diversity (ordination)
+   - PERmutational Multivariate ANalysis Of VAriance (PERMANOVA)
+   - Differential analysis
 - Discussion
   - Wrap up of the results of 16S rRNA gene sequence analysis
 
@@ -139,6 +139,5 @@ Before attending the workshop, please go through the following courses:
 
   - <a href="https://youtu.be/UGgxfzCoX9k?si=gSHIXaJOQ7CuGDkv">Introduction to R (1)</a>
   - <a href="https://youtu.be/eWa32WxJOnY?si=ZUxdMORnnQd68-GZ">Introduction to R (2)</a> 
-  - <a href="https://app.datacamp.com/learn/courses/free-introduction-to-r">Introduction to R (Chapter 1)</a> 
   - <a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>
  
