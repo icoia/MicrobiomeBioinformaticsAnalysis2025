@@ -18,10 +18,9 @@
   <a href="https://icoia.org">ICOIA </a>(International Community of Iranian Academics)
 </p>
 
-<p id="dateTitle">
-  <strong>Start Date:</strong>
-</p>
 <p id="date">
+  <strong>Start Date:</strong>
+
   - Esfand 15, 1403 - 8 PM IRAN
   - March 5, 2025 - 5:30 PM CET; 11:30 AM EST
 </p>
