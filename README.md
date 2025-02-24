@@ -2,7 +2,7 @@
 
 <h2 id="general">General Information</h2>
 
-<img src="images/poster_BIOF-Mic101.png" width="300" align="right">
+<img src="images/poster_BIOF-Mic101.png" width="250" align="right">
 
 <p id="code">
   <strong>Code:</strong>
@@ -18,10 +18,10 @@
   <a href="https://icoia.org">ICOIA </a>(International Community of Iranian Academics)
 </p>
 
-<p id="date">
+<p id="dateTitle">
   <strong>Start Date:</strong>
-
-  
+</p>
+<p id="date">
   - Esfand 15, 1403 - 8 PM IRAN
   - March 5, 2025 - 5:30 PM CET; 11:30 AM EST
 </p>
