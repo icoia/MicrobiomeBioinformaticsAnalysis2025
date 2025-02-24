@@ -6,11 +6,11 @@
 
 <p id="code">
   <strong>Code:</strong>
-  <a>BIOS101</a>
+  <a>BIOF-Mic101</a>
 </p>
 <p id="teach">
   <strong>Instructor:</strong>
-  <a href="https://orcid.org/0000-0003-1323-7827">Kian Jenab </a>(Ph.D. candidate)
+  <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh</a>(Ph.D., PDF)
 </p>
 
 <p id="by">
@@ -18,14 +18,14 @@
   <a href="https://icoia.org">ICOIA </a>(International Community of Iranian Academics)
 </p>
 
-<!--<p id="date">
-  <strong>Dates:</strong>
-  September - November 2023
-</p>-->
+<p id="date">
+  <strong>Start Dates:</strong>
+  March 5, 2025
+</p>
 
 <p id="obj">
   <strong>Objective:</strong>
-  Statistical data analysis using R
+  Metabarcoding and 16S rRNA gene sequencing using R
 </p>
 
 <p id="requirements">
@@ -38,10 +38,10 @@
   - R and Rstudio installed (instructions <a href="#setup">below</a>)
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
   
-<!--<p id="register">
+<p id="register">
   <strong>Register</strong>
-  <a href="...">here</a> 
-</p>-->
+  <a href="https://forms.gle/tdnDSKGJ491BBMU5A">here</a> 
+</p>
 
 <p id="watch">
   <strong>Watch</strong>
