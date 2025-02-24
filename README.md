@@ -2,7 +2,7 @@
 
 <h2 id="general">General Information</h2>
 
-<img src="images/poster_BIOF-Mic101.png" width="250" align="right">
+<img src="images/poster_BIOF-Mic101.png" width="300" align="right">
 
 <p id="code">
   <strong>Code:</strong>
@@ -21,7 +21,7 @@
 <p id="date">
   <strong>Start Date:</strong>
 
-  - Esfand 15, 1403 - 8 PM IRAN
+  - Esfand 15, 1403, 8 PM IRAN
   - March 5, 2025 - 5:30 PM CET; 11:30 AM EST
 </p>
 
